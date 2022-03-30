@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0001",
+    "viewed": 10,
+    "name": "News 1",
+    "text": "Preview text"
+  },
+  {
+    "id": "0005",
+    "viewed": 25,
+    "name": "News 2",
+    "text": "Preview text"
+  },
+  {
+    "id": "0002",
+    "viewed": 16,
+    "name": "News 3",
+    "text": "Preview text"
+  }
+]
